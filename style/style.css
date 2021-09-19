@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+    max-width: 100%;
+}
+
+.pic-size{
+    height: 20px;
+    /* padding-top: 10px; */
+}
+
+.twitter{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.google{
+    border: 2px solid black;
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.apple{
+    border: 2px solid black;
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.gmail{
+    border: 2px solid black;
+    width: 250px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.tweet-logo{
+    height: 500px;
+    width: 300px;
+}
+
+.login-div{
+    margin-left: 10px;
+}
+
+.tweet-logo2{
+    height: 50px;
+    width: 50px;
+}
+
+.login-div2{
+    padding: 20px;
+    
+}
+
+.href{
+    text-decoration: none;
+    color: black;
+}
+
+.href:hover{
+    color: brown;
+}
+
+.about{
+    /* margin-left: 70px;
+    max-width: 80%; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.terms-conditions{
+    text-decoration: none;
+    color: cadetblue;
+}
+.copy{
+   text-align: center;
+}
+
+.copy-right{
+    text-decoration: none;
+    color: rgb(45, 106, 219);
+    font-size: 20px;
+}
+.have-account{
+    text-decoration: none;
+    color: blue;
+}
+
+.rules{
+    text-decoration: none;
+    color: blue;
+}
+
+
